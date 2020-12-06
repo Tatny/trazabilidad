@@ -1,0 +1,16 @@
+.Button{
+    border:solid 2px orangered;
+    padding: 30px;
+    flex: 0.5; /*percetnage of the screen*/
+    height: 50vh;  
+    width: 70vh;
+    overflow-y: overlay;
+    margin-left: 500px;
+    margin-top: 200px;
+    display: grid;
+    place-items: center;
+}
+.logo{
+    height: 10px !important;  
+    width: 10px !important;
+}
